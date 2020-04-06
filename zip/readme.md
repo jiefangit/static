@@ -5,6 +5,3 @@ onelist-themes.zip
 
 localhostssl.zip      
 #自签名SSL证书
-
-25M.test.zip          
-#25M无用文件,仅下载测速使用
